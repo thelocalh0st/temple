@@ -6,8 +6,8 @@
   link: /about_us/
   new_window: false
   highlight: false
-- name: GoSeva
-  link: /goseva/
+- name: Home
+  link: /home/
   new_window: false
   highlight: true
 - name: Contact
