@@ -14,9 +14,6 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Committee
-  link: /about
-  new_window: true
   highlight: false
 - name: Gallery
   link: /gallary/

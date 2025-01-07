@@ -8,9 +8,9 @@
   - name: Contact
     link: /contact/
 
-- logo:
-    link: /  # URL where the logo should redirect
-    alt_text: "Site Logo"
+# - logo:
+#     link: /  # URL where the logo should redirect
+#     alt_text: "Site Logo"
 
 - links:
   - name: Committee
