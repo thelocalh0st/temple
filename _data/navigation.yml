@@ -6,10 +6,6 @@
   link: /about_us/
   new_window: false
   highlight: false
-- name: Home
-  link: /home/
-  new_window: false
-  highlight: true
 - name: Contact
   link: /contact/
   new_window: false
